@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>George ⟡ Afrula</h1>
+<h1>George ⟡ Batmanos1</h1>
 
 <p><b>Electronic Engineering Student • Software & Bot Developer</b></p>
 

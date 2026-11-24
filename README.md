@@ -5,8 +5,8 @@
 <p><b>Electronic Engineering Student • Software & Bot Developer</b></p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=2b3137&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&color=2b3137&style=flat-square" alt="Followers" />
+  <img src="https:/komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=2b3137&style=flat-square" alt="Profile views" />
+  <img src="https:/img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&color=2b3137&style=flat-square" alt="Followers" />
 </p>
 
 </div>
@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <sub>⟡ Greek • <a href="https://modrinth.com">Modrinth</a> ⟡</sub>
+  <sub>⟡ Greek • Dev ⟡</sub>
 </div>

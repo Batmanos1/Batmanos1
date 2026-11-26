@@ -42,8 +42,8 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| **[WynNamic](https://github.com/Batmanos1/wynnamic)** | `Fabric` `Modrinth` `Java` | We Love Wynnamic! |
 | **[BeeBot!](https://github.com/Batmanos1/beebot)** | `TypeScript` `discord.js` `MongoDB` | BeeBot! |
-| **[WynNamic](https://github.com/wynnamic)** | `Fabric` `Modrinth` `Java` | We Love Wynnamic! |
 
 </div>
 
